@@ -7,3 +7,5 @@ histogram:
 
 boxplot:
 ![image](https://user-images.githubusercontent.com/91351877/144724848-8f09bda9-1d0a-4e29-b973-be6a66012d82.png)
+
+E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff, and S. Goel. “A large-scale analysis of racial disparities in police stops across the United States”. Nature Human Behaviour, Vol. 4, 2020.
