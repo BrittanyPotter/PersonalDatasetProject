@@ -3,7 +3,7 @@
 ## Motivation
 
 I thought criminal justice would be an interesting topic to research, so I decided to start there. A qustion that I had that pertained to that subject was what age are typical of offenders.
----
+
 ## Data Process
 
 When looking through data sets the open policing data from Stanford University stuck out. They have multiple data files from many different cities in the United States. For this Assignment I chose Littlerock Arkansas because it was a manageable size and had information that I was interested in. When looking through the data I found that there were ages missing, so I decided to discard those rows.
