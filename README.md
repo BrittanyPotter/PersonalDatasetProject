@@ -2,7 +2,8 @@
 ---
 ## Motivation
 
-I thought criminal justice would be an interesting topic to research, so I decided to start there. A question that I had that pertained to that subject was what age are typical of offenders.
+I though a topic that would be interesting to research would be criminal Justice. It’s a topic that I find interesting generally and thought that delving into related topics could be intriguing to learn. One question that I have for this subject is how age effects being stopped by police officers. Initially I Thought that It would mostly be younger people in their twenties and thirties, but I also thought it would be interesting to see what data would show for older people who are in their seventies or eighties.
+
 
 ## Data Process
 
