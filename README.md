@@ -13,7 +13,7 @@ https://openpolicing.stanford.edu/data/
 ---
 ## Visualization
 
-This hisogram shows the distribution of ages. Its interesting that
+This hisogram shows the distribution of ages. Its interesting that there
 
 ![image](https://user-images.githubusercontent.com/91351877/144730934-909bfd1c-1e26-47c2-a321-cfdd14d3b88f.png)
 ---
