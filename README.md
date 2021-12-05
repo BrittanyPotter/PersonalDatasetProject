@@ -17,7 +17,7 @@ I chose the histogram over other ways to represent the data because it would har
 ---
 ## Analysis
 
-When looking at the numbers, I found that the median age is 33 years, the youngest is 14 and the oldest is 99. There were 117 outliers, which makes up of people over 80. I find it interesting that there are so many outliers. Looking at the boxplot, the 
+For this data I want to know how what ages are more prevalent, so I decided to use a boxplot to analyze the data.  I was also able to use R to find the mean value, the maximum value, and the minimum value. As a result, I found that the mean age is 33 years old, the youngest person was 14 years old, and the oldest was 99 years old. There were 117 outliers, which were all people over 80. Looking at the boxplot and the outliers, it’s interesting to see how much older people are stopped, even though it is not nearly as much as for those who are younger. 
 
 ![image](https://user-images.githubusercontent.com/91351877/144730743-ed2f8072-edb2-4673-9b3e-2b073a04ea56.png)
 
