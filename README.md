@@ -18,6 +18,9 @@ This hisogram shows the distribution of ages. Its interest
 ---
 ## Analysis
 
+I find it interesting that there are so many outliers
+![image](https://user-images.githubusercontent.com/91351877/144730743-ed2f8072-edb2-4673-9b3e-2b073a04ea56.png)
+
 ![image](https://user-images.githubusercontent.com/91351877/144724848-8f09bda9-1d0a-4e29-b973-be6a66012d82.png)
 
 ---
