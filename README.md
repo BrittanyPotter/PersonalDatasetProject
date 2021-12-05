@@ -14,7 +14,7 @@ https://openpolicing.stanford.edu/data/
 
 This hisogram shows the distribution of ages. Its interest
 
-![image](https://user-images.githubusercontent.com/91351877/144724818-7b460bfc-492c-417e-b692-28e761858034.png)
+![image](https://user-images.githubusercontent.com/91351877/144730934-909bfd1c-1e26-47c2-a321-cfdd14d3b88f.png)
 ---
 ## Analysis
 
