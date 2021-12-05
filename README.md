@@ -11,7 +11,7 @@ When looking through data sets, the open policing data from Stanford University 
 ---
 ## Visualization
 
-This histogram shows the distribution of ages. It’s interesting how the histogram shows that most of the people stopped are from people who are in their twenties. 
+I chose the histogram over other ways to represent the data because it would hard to read otherwise. With how many data points we have there would be too many things. This histogram shows the distribution of ages. It nicely shows how prevalent each age is. It is interesting how the histogram shows that most of the people stopped are from people who are in their twenties. 
 
 ![image](https://user-images.githubusercontent.com/91351877/144730934-909bfd1c-1e26-47c2-a321-cfdd14d3b88f.png)
 ---
