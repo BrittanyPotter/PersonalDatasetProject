@@ -6,13 +6,13 @@ I thought criminal justice would be an interesting topic to research, so I decid
 ---
 ## Data Process
 
-When looking through data sets the open policing data from stanford really stuck out. They have multiple data files from many different cities in the United states. For this Assignment I chose Littlerock Arkansas because it was a manageable size and had information that I was interested in. 
+When looking through data sets the open policing data from Stanford University stuck out. They have multiple data files from many different cities in the United States. For this Assignment I chose Littlerock Arkansas because it was a manageable size and had information that I was interested in. When looking through the data I found that there were ages missing, so I decided to discard those rows.
 https://openpolicing.stanford.edu/data/
 
 ---
 ## Visualization
 
-This hisogram shows the distribution of ages.
+This hisogram shows the distribution of ages. Its interest
 
 ![image](https://user-images.githubusercontent.com/91351877/144724818-7b460bfc-492c-417e-b692-28e761858034.png)
 ---
