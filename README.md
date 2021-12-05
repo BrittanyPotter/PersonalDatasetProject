@@ -8,7 +8,7 @@ I though a topic that would be interesting to research would be criminal Justice
 
 ## Data Process
 
-When looking through data sets, the open policing data from Stanford University stuck out.  In the data each row represents a stop by police officers. It contains multiple data files from many different cities in the United States. This data can be found at https://openpolicing.stanford.edu/data/ . For this Assignment I chose to use the data from Little Rock, Arkansas because it was a manageable size and had information that I was interested in. This data is all from the year 2017. When looking through the data I found that some ages were missing, so I decided to discard those rows. 
+When looking through data sets, the open policing data from Stanford University stuck out.  In the data each row represents a stop by police officers. It contains multiple data files from many different cities in the United States. This data can be found at https://openpolicing.stanford.edu/data/ . For this assignment I chose to use the data from Little Rock, Arkansas because it was a manageable size and had information that I was interested in. This data is all from the year 2017. When looking through the data I found that some ages were missing, so I decided to discard those rows. 
 
 
 ---
