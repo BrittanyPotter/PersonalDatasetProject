@@ -6,9 +6,8 @@ I thought criminal justice would be an interesting topic to research, so I decid
 
 ## Data Process
 
-When looking through data sets, the open policing data from Stanford University stuck out. They have multiple data files from many different cities in the United States. For this Assignment I chose Littlerock Arkansas because it was a manageable size and had information that I was interested in. When looking through the data I found that there were ages missing, so I decided to discard those rows
+When looking through data sets, the open policing data from Stanford University stuck out. They have multiple data files from many different cities in the United States. This data can be found at https://openpolicing.stanford.edu/data/.For this Assignment I chose Littlerock Arkansas because it was a manageable size and had information that I was interested in. When looking through the data I found that there were ages missing, so I decided to discard those rows
 
-https://openpolicing.stanford.edu/data/
 
 ---
 ## Visualization
